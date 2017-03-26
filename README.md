@@ -8,6 +8,6 @@ Module:
 04. Module TFT 3.2 inch LCD
 05. Module Led 7 thanh dùng ghi dịch (74HC595)
 06. Module Led 7 thanh tích hợp
-07. 
+07. 07-KhuechDaiCongSuat(TDA7297)
 08.
 09.
