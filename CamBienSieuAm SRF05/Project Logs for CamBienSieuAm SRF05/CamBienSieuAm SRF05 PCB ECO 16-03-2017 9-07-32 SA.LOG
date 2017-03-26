@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=AC1 Pin=TP1-1
-Removed Pin From Net: NetName=AC2 Pin=TP2-1
-Added Component: Designator=TP1(TP)
-Add component. Clean all parameters for all variants
-Added Component: Designator=TP2(TP)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=AC1 Pin=TP1-1
-Added Pin To Net: NetName=AC2 Pin=TP2-1
