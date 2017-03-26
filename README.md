@@ -11,4 +11,4 @@ Module:
 07. Module Khuếch đại công suất(TDA7297)
 08. Module Động cơ DC và Encoder
 09. Module Bluetooth HC05
-10. Module Chuyển đổi tương tự sang số
+10. Module Chuyển đổi số sang tương tự
