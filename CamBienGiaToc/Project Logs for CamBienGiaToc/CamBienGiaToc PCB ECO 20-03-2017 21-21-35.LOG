@@ -1,0 +1,6 @@
+Added Component: Designator=CN1(M3)
+Added Component: Designator=CN2(M3)
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Member To Class: ClassName=CamBienGiaToc Member=Component CN1 COCDONGM3
+Added Member To Class: ClassName=CamBienGiaToc Member=Component CN2 COCDONGM3

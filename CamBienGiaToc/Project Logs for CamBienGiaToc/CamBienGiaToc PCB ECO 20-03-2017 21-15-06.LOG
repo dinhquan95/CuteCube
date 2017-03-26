@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=+5V Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=+5V Pin=C4-2
+Removed Pin From Net: NetName=+12V Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=SDA Pin=JP1-4
+Removed Member From Class: ClassName=CamBienGiaToc Member=TP1
+Removed Member From Class: ClassName=CamBienGiaToc Member=TP2
+Change Component Footprint: Designator=C1 Old Footprint=C-TANT-7343 New Footprint=C-0805
+Change Component Footprint: Designator=C2 Old Footprint=C-TANT-7343 New Footprint=C-0805
+Change Component Footprint: Designator=C3 Old Footprint=CER-0805 New Footprint=C-TANT-7343-31-CASEA
+Change Component Footprint: Designator=C4 Old Footprint=CER-0805 New Footprint=C-TANT-7343-31-CASEA
+Change Component Footprint: Designator=JP1 Old Footprint=JP5 New Footprint=JP8
+Change Component Footprint: Designator=IC1 Old Footprint=TO252-123 New Footprint=TO-252
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C4 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C1 Old Comment=470uF/16V New Comment=104
+Change Component Comment : Designator=C2 Old Comment=470uF/16V New Comment=104
+Change Component Comment : Designator=JP1 Old Comment=JP5 New Comment=CN-MPU6050
+Change Component Comment : Designator=IC1 Old Comment=LM7805 New Comment=ASM1117
+Added Component: Designator=CN1(M3)
+Added Component: Designator=CN2(M3)
+Added Component: Designator=R1(R-0805)
+Added Component: Designator=R2(R-0805)
+Added Component: Designator=R3(R-0805)
+Added Component: Designator=R4(R-0805)
+Added Component: Designator=R5(R-0805)
+Added Component: Designator=R6(R-0805)
+Added Pin To Net: NetName=+12V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=+12V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-2
+Added Pin To Net: NetName=SCL Pin=JP1-1
+Added Pin To Net: NetName=SDA Pin=JP1-2
+Added Pin To Net: NetName=+12V Pin=JP1-7
+Added Pin To Net: NetName=+5V Pin=JP1-8
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=+5V Pin=R3-2
+Added Pin To Net: NetName=+5V Pin=R4-2
+Added Pin To Net: NetName=SDA Pin=R5-1
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=SCL Pin=R6-1
+Added Pin To Net: NetName=+5V Pin=R6-2
+Change Net Name : Old Net Name=+12V New Net Name=GND
+Change Net Name : Old Net Name=GND New Net Name=+12V
+Added Pin To Net: NetName=AD0 Pin=JP1-5
+Added Pin To Net: NetName=AD0 Pin=R2-1
+Added Net: Name=AD0
+Added Pin To Net: NetName=INT Pin=JP1-6
+Added Pin To Net: NetName=INT Pin=R1-1
+Added Net: Name=INT
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=D1-1
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Pin To Net: NetName=NetCN2_1 Pin=D1-2
+Added Net: Name=NetCN2_1
+Added Pin To Net: NetName=XCL Pin=JP1-4
+Added Pin To Net: NetName=XCL Pin=R3-1
+Added Net: Name=XCL
+Added Pin To Net: NetName=XDA Pin=JP1-3
+Added Pin To Net: NetName=XDA Pin=R4-1
+Added Net: Name=XDA
+Added Member To Class: ClassName=CamBienGiaToc Member=Component CN1 COCDONGM3
+Added Member To Class: ClassName=CamBienGiaToc Member=Component CN2 COCDONGM3
+Added Member To Class: ClassName=CamBienGiaToc Member=Component R1 10K
+Added Member To Class: ClassName=CamBienGiaToc Member=Component R2 10K
+Added Member To Class: ClassName=CamBienGiaToc Member=Component R3 10K
+Added Member To Class: ClassName=CamBienGiaToc Member=Component R4 10K
+Added Member To Class: ClassName=CamBienGiaToc Member=Component R5 10K
+Added Member To Class: ClassName=CamBienGiaToc Member=Component R6 10K

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=+5V Pin=J2-2
+Removed Member From Class: ClassName=CAN-UART Member=J2
+Added Member To Class: ClassName=CAN-UART Member=Component C1 470uF
+Added Member To Class: ClassName=CAN-UART Member=Component C3 104

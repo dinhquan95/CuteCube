@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=AC1 Pin=TP?-TP1
+Removed Pin From Net: NetName=AC2 Pin=TP?-TP1
+Removed Member From Class: ClassName=CamBienGiaToc Member=TP?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Added Component: Designator=TP1(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AC1 Pin=TP1-1
+Added Member To Class: ClassName=CamBienGiaToc Member=Component C1 470uF/16V
+Added Member To Class: ClassName=CamBienGiaToc Member=Component C3 100nF
+Added Member To Class: ClassName=CamBienGiaToc Member=Component C4 100nF
+Added Member To Class: ClassName=CamBienGiaToc Member=Component TP1 TP
+Added Member To Class: ClassName=CamBienGiaToc Member=Component TP2 TP
+Added Room: Name=CamBienGiaToc

@@ -1,0 +1,54 @@
+Added Component: Designator=C1(C-TANT-7343-31-CASEA)
+Added Component: Designator=C2(C-TANT-7343-31-CASEA)
+Added Component: Designator=C3(C-0805)
+Added Component: Designator=C4(C-0805)
+Added Component: Designator=CN2(M3)
+Added Component: Designator=CN3(M3)
+Added Component: Designator=DB1(D-DB-1A-SMD)
+Added Component: Designator=J1(JP2)
+Added Component: Designator=R1(SM-RES-1206)
+Added Component: Designator=R2(SM-RES-1206)
+Added Component: Designator=U2(TO-252)
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=J1-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C3-2
+Added Pin To Net: NetName=+12V Pin=DB1-3
+Added Pin To Net: NetName=+12V Pin=U2-3
+Added Net: Name=+12V
+Added Pin To Net: NetName=CANH Pin=R2-1
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=R2-2
+Added Net: Name=CANL
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=DB1-4
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Pin To Net: NetName=NetCN2_1 Pin=DB1-2
+Added Net: Name=NetCN2_1
+Added Pin To Net: NetName=NetCN3_1 Pin=CN3-1
+Added Pin To Net: NetName=NetCN3_1 Pin=DB1-1
+Added Net: Name=NetCN3_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Net: Name=NetR1_2
+Added Net: Name=RXD
+Added Net: Name=TXD
+Added Class: Name=CAN-UART

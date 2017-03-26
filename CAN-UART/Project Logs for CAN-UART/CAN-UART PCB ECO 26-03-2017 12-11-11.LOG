@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C1 Old Footprint=C-TANT-7343-31-CASEA New Footprint=C-ALU-D6.5
+Change Component Footprint: Designator=C2 Old Footprint=C-TANT-7343-31-CASEA New Footprint=C-ALU-D6.5
+Change Component Footprint: Designator=R1 Old Footprint=SM-RES-1206 New Footprint=R-0805
+Added Component: Designator=CN2(M3)
+Added Component: Designator=CN3(M3)
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Pin To Net: NetName=NetCN3_1 Pin=CN3-1
+Added Member To Class: ClassName=CAN-UART Member=Component CN2 VIN1
+Added Member To Class: ClassName=CAN-UART Member=Component CN3 VIN2

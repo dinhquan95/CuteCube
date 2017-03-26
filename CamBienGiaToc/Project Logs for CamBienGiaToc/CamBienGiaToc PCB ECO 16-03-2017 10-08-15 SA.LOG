@@ -1,0 +1,79 @@
+Added Component: Designator=C?(C-TANT-7343)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(CER-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(CER-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(C-TANT-7343)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(D-DB-1A-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/2146/l78m05c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-1994"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Tab is connected to pin 3 (GND)."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm; Pin sequence 1, 3, 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "ISOWATT220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jul-1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Aug-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(TO252-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/2146/l78m05c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-1994"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Tab is connected to pin 3 (GND)."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm; Pin sequence 1, 3, 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "ISOWATT220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jul-1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Aug-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP?(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP?(TP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=IC?-3
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=C?-1
+Added Pin To Net: NetName=+12V Pin=C?-2
+Added Pin To Net: NetName=+12V Pin=D?-4
+Added Pin To Net: NetName=+12V Pin=IC?-1
+Added Net: Name=+12V
+Added Net: Name=3.3V
+Added Pin To Net: NetName=AC1 Pin=D?-1
+Added Pin To Net: NetName=AC1 Pin=TP?-TP1
+Added Net: Name=AC1
+Added Pin To Net: NetName=AC2 Pin=D?-2
+Added Pin To Net: NetName=AC2 Pin=TP?-TP1
+Added Net: Name=AC2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=INT1 Pin=JP?-2
+Added Net: Name=INT1
+Added Pin To Net: NetName=INT2 Pin=JP?-1
+Added Net: Name=INT2
+Added Pin To Net: NetName=SA0 Pin=JP?-3
+Added Net: Name=SA0
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=JP?-4
+Added Net: Name=SDA
+Added Pin To Net: NetName=SLC Pin=JP?-5
+Added Net: Name=SLC
+Added Class: Name=CamBienGiaToc
