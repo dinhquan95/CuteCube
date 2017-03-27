@@ -15,3 +15,6 @@ Module:
 11. Module Led đơn
 12. Module Led matrix dùng ghi dịch (74HC595)
 13. Module USB to TTL
+14. Module StepMotor
+15. Module I2C-EPPROM
+16. Module Relay
