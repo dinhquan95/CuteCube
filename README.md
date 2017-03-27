@@ -12,3 +12,6 @@ Module:
 08. Module Động cơ DC và Encoder
 09. Module Bluetooth HC05
 10. Module Chuyển đổi số sang tương tự
+11. Module Led đơn
+12. Module Led matrix dùng ghi dịch (74HC595)
+13. Module USB to TTL
