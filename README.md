@@ -17,3 +17,4 @@ Module:
 13. Module USB to TTL
 14. Module StepMotor
 15. Module I2C-EPPROM
+16. Module Relay
