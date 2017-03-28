@@ -19,3 +19,14 @@ Module:
 15. Module I2C-EPPROM
 16. Module Relay
 17. Module TemHumdIr
+18. Module GSM_GPRS (SIM808)
+19. Module VR_Encoder
+20. Module Zigbee
+21. Module LAN
+22. Module CAN
+23. Module LoadCell
+24. Module UltrasonicSensors (SRF05)
+25. Module KeyBoard
+26. Module TouchPad4P
+27. Module AudioEncode
+28. Module RS485
